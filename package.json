@@ -1,0 +1,26 @@
+{
+  "name": "wikiquotes",
+  "version": "1.0.0",
+  "description": "Allows you to easily find quotes that are on wikiquote.org. Built using: https://github.com/natetyler/wikiquotes-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twolfe2/wikiquotes.git"
+  },
+  "keywords": [
+    "quote",
+    "api",
+    "wiki",
+    "random",
+    "motivation"
+  ],
+  "author": "Thomas Wolfe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twolfe2/wikiquotes/issues"
+  },
+  "homepage": "https://github.com/twolfe2/wikiquotes#readme"
+}
